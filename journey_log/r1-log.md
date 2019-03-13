@@ -158,3 +158,10 @@
 **Thoughts**: I need to stop trying to write everything down; tt's a HUGE TIME WASTER. I have to write only unique/specific characteristics about something, then use references to for examples. Your NOTES should be simplified. Use lots of references to examples somewhere. like the Docs, Manual, some Tutorial Site. keep some simple examples. 
 
 **Link to work**: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+
+
+### Day 29: March 11, 2019 
+**Today's Progress**: Learnt about `.concat()`, `.append()` & `.merge()`
+**Thoughts**: It's equivalent to SQL JOINs
+
+**Link to work**: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
