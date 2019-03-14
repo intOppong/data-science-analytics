@@ -160,8 +160,13 @@
 **Link to work**: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
 
 
-### Day 29: March 11, 2019 
+### Day 30: March 12, 2019 
 **Today's Progress**: Learnt about `.concat()`, `.append()` & `.merge()`
 **Thoughts**: It's equivalent to SQL JOINs
 
 **Link to work**: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+
+### Day 31: March 13, 2019 
+**Today's Progress**: Completed the course: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) & started [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python). Got a brief intro to SQLAlchemy.
+
+**Link to work**: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas), [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
