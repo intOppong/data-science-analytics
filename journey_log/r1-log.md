@@ -170,3 +170,15 @@
 **Today's Progress**: Completed the course: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) & started [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python). Got a brief intro to SQLAlchemy.
 
 **Link to work**: [Merging DataFrames with Pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas), [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+
+### Day 32: March 14, 2019 
+**Today's Progress**: Learnt SQLAlchemy methods for filtering, ordering and grouping data. Also learnt about Advanced Queries for calculating values inside the queries, JOINS & working with Hierarchical Tables.
+
+**Link to work**: [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+
+### Day 33: March 15, 2019 
+**Today's Progress**: Completed the Course. Finished up exercises on creating & manipulating your own databases with SQLAlchemy. Then I did the case study.
+
+**Link to work**: [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
