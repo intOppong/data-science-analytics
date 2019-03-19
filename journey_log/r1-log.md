@@ -182,3 +182,9 @@
 **Today's Progress**: Completed the Course. Finished up exercises on creating & manipulating your own databases with SQLAlchemy. Then I did the case study.
 
 **Link to work**: [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+
+### Day 34: March 18, 2019 
+**Today's Progress**: Started Statistical Thinking in Python course. Learnt about Visual/Graphical Exploratory Data Analysis using histograms, Bee Swarm plots and ECDF. Did a little read on summary statistics using Box plots.
+
+**Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+
