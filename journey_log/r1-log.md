@@ -188,3 +188,13 @@
 
 **Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 
+
+### Day 35 & 36: March 19 - 20, 2019 
+**Today's Progress**: I've learnt about Quantitative EDA with EDCF & PMFs. learnt about Probability & Statistical Inference, hacker statistics, Distribution, Discrete Variables, Bernouli trials & Binomial Distribution among many other awesome stuff.
+
+**Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+
+
+
+
+
