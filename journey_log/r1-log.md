@@ -194,6 +194,11 @@
 
 **Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 
+### Day 37: March 26, 2019 
+**Today's Progress**: learnt about Continuous Variables, Probability Density Function & The Normal Distribution.
+
+**Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+
 
 
 
