@@ -202,9 +202,12 @@
 ### Day 38: March 27, 2019 
 **Today's Progress**: Finished the course [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) & Begun [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2). Learnt about parameter optimization, linear regression & bootstrapping/resampling data.
 
-**Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1), [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+**Link to work**: [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1), [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 
+### Day 39: March 28, 2019 
+**Today's Progress**: Learnt about the Pipeline for Hypothesis Testing, Permutation sampling, test statistic & calculating & interpreting the p-value for statistical significance.
 
+**Link to work**: [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 
 
 
