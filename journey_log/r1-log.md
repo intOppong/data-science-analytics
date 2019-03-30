@@ -209,5 +209,9 @@
 
 **Link to work**: [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 
+### Day 40: March 29, 2019 
+**Today's Progress**: Finished the Course [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2). Did example use cases of hypothesis testing in the form of A/B testing & & testing for correlation. Then completed the case study afterwards.
+
+**Link to work**: [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 
 
