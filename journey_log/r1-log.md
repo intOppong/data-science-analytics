@@ -214,4 +214,9 @@
 
 **Link to work**: [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 
+### Day 41: March 29, 2019 
+**Today's Progress**: Started [Introduction to Data Visualization with Python](https://www.datacamp.com/tracks/data-analyst-with-python?version=1) course. Got Introduced to Plotting 2D image arrays.
 
+**Thought**: Skimming through the course. I'm just taking it as an introduction which it is. So I'm not gonna spend too much time on it. 
+
+**Link to work**: [Introduction to Data Visualization with Python](https://www.datacamp.com/tracks/data-analyst-with-python?version=1)
